@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/product-registry.clar"
 depends_on = []
 
+[contracts.supply-chain]
+path = "contracts/supply-chain.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
